@@ -2,6 +2,9 @@
 
 Flappy Bird Clone with Electron.
 
+![tempsnip](https://github.com/hawk0120/clone-flappy-bird/assets/35853045/26d69734-1823-4c71-813f-7a7226da0cfc)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
