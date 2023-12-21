@@ -1,0 +1,15 @@
+{
+  "name": "flappy-bird-electron",
+  "version": "1.0.0",
+  "description": "Flappy Bird Clone with Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Brady Hawkins",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
